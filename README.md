@@ -16,24 +16,20 @@ Requisições HTTP: Axios <br>
 Clone este repositório: <br>
 
 bash <br>
-Copiar código<br>
 git clone https://github.com/seu-usuario/nome-do-repositorio.git<br>
 
 Navegue até a pasta do projeto e instale as dependências do front-end:<br>
 bash<br>
-Copiar código<br>
 cd nome-do-repositorio<br>
 npm install<br>
 <br>
 Para o backend, navegue para a pasta do servidor e instale as dependências:<br>
 bash<br>
-Copiar código<br>
 cd backend <br>
 npm install <br>
 <br>
 Execute o servidor backend: <br>
 bash <br>
-Copiar código <br>
 npm start <br>
 
 Em outra aba do terminal, execute o front-end: <br>
@@ -55,15 +51,12 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para
 Faça um fork deste repositório. <br>
 Crie uma nova branch com a sua funcionalidade: <br>
 bash <br>
-Copiar código <br>
 git checkout -b minha-nova-funcionalidade <br><br>
 Faça o commit das suas mudanças: <br>
 bash <br>
-Copiar código <br>
 git commit -m 'Adicionando nova funcionalidade' <br><br>
 Envie para o repositório remoto: <br>
 bash <br>
-Copiar código <br>
 git push origin minha-nova-funcionalidade <br>
 Abra um Pull Request. <br>
 📜 Licença <br>
