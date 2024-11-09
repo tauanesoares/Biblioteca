@@ -30,13 +30,13 @@ bash<br>
 Copiar código<br>
 cd backend <br>
 npm install <br>
-Execute o servidor backend: <br>
 
+Execute o servidor backend: <br>
 bash <br>
 Copiar código <br>
 npm start <br>
-Em outra aba do terminal, execute o front-end: <br>
 
+Em outra aba do terminal, execute o front-end: <br>
 bash <br>
 Copiar código <br>
 npm start <br>
