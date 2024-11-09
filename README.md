@@ -18,19 +18,19 @@ Clone este repositório: <br>
 bash <br>
 Copiar código<br>
 git clone https://github.com/seu-usuario/nome-do-repositorio.git<br>
+
 Navegue até a pasta do projeto e instale as dependências do front-end:<br>
-<br>
 bash<br>
 Copiar código<br>
 cd nome-do-repositorio<br>
 npm install<br>
-Para o backend, navegue para a pasta do servidor e instale as dependências:<br>
 <br>
+Para o backend, navegue para a pasta do servidor e instale as dependências:<br>
 bash<br>
 Copiar código<br>
 cd backend <br>
 npm install <br>
-
+<br>
 Execute o servidor backend: <br>
 bash <br>
 Copiar código <br>
