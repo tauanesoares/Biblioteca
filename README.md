@@ -56,11 +56,11 @@ Faça um fork deste repositório. <br>
 Crie uma nova branch com a sua funcionalidade: <br>
 bash <br>
 Copiar código <br>
-git checkout -b minha-nova-funcionalidade <br>
+git checkout -b minha-nova-funcionalidade <br><br>
 Faça o commit das suas mudanças: <br>
 bash <br>
 Copiar código <br>
-git commit -m 'Adicionando nova funcionalidade' <br>
+git commit -m 'Adicionando nova funcionalidade' <br><br>
 Envie para o repositório remoto: <br>
 bash <br>
 Copiar código <br>
